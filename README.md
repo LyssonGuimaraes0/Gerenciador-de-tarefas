@@ -1,8 +1,57 @@
-# React + Vite
+# Gerenciador de Tarefas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Gerenciador de Tarefas
 
-Currently, two official plugins are available:
+Aplicação de gerenciamento de tarefas desenvolvida com **React**, com o objetivo de praticar conceitos fundamentais da biblioteca e manipulação de estados.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias utilizadas
+
+- React
+- JavaScript
+- Tailwind CSS
+- Vite
+- Lucide React
+
+## Funcionalidades
+
+- [x] Listar tarefas.
+- [x] Adicionar novas tarefas.
+- [x] Marcar tarefas como concluídas.
+- [x] Excluir tarefas.
+- [x] Armazenar tarefas no LocalStorage.
+- [x] Manter os dados após atualizar a página.
+
+## Conceitos praticados
+
+Durante o desenvolvimento, foram explorados os seguintes conceitos:
+
+- Componentização com React.
+- Gerenciamento de estados com `useState`.
+- Efeitos colaterais com `useEffect`.
+- Comunicação entre componentes através de Props.
+- Manipulação de arrays com `map()` e `filter()`.
+- Eventos e callbacks (`onClick`).
+- Renderização dinâmica de componentes.
+- Persistência de dados com `localStorage`.
+
+## Como executar o projeto
+
+Clone o repositório.
+
+Instale as dependências.
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+A aplicação estará disponível no endereço indicado pelo Vite no terminal.
+
+## Objetivo
+
+Projeto desenvolvido com finalidade educacional, como parte do processo de aprendizado de React e desenvolvimento frontend.
+
+---
+
+Desenvolvido para praticar e consolidar os fundamentos do React para projetos futuros.
