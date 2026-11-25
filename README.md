@@ -1,7 +1,5 @@
 # Gerenciador de Tarefas
 
-# Gerenciador de Tarefas
-
 Aplicação de gerenciamento de tarefas desenvolvida com **React**, com o objetivo de praticar conceitos fundamentais da biblioteca e manipulação de estados.
 
 ## Tecnologias utilizadas
